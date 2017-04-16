@@ -5,10 +5,17 @@ Implementing the Farmer Wolf Goat Cabbage problem using logism (logic gates and 
 This was created for CS 2521 at University of Minnesota, Duluth as a team project
 ---------------------------------------------------------------------------------------------------
 
-How to use
 ---------------------------------------------------------------------------------------------------
-Open the circ file in logism. You can try to solve the puzzle while on the default sceen (the main circuit)
-You must make sure that the clock simulation is on. You can enable it in the simulation settings, and
-make sure the clock speed is above at least 32hz so the registers update fast enough for the game.
-Press the buttons on the left to attempt the move. If you complete the puzzle, the "win" LED will light up.
+Open the circ file in logism. You can try to solve the puzzle while on the default sceen (the main circuit) by
+pressing the buttons on the top (F for farmer, W for wolf, etc). 
+
+When the puzzle is solved, you will see the 
+"solved" LED light up. There is currently no reset button so if you wish to try the puzzle again you must backtrack,
+set the corresponding registers to 0, or just open the file again.
+
+You must make sure that the clock simulation is on. You can enable it in the simulation settings.
+Because of the way a button in logism works, there is a bug where sometimes pressing a button for
+a legal move can result in the led not updating correctly. Try playing with the clock speed, I settled
+with 128hz.
+
 ---------------------------------------------------------------------------------------------------

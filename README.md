@@ -1,12 +1,12 @@
 # FWGClogism
 About
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 Implementing the Farmer Wolf Goat Cabbage problem using logism (logic gates and low level hardware, etc)
 This was created for CS 2521 at University of Minnesota, Duluth as a team project by Jacob & Mackenzie Fulton
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 How to use, notes
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 Open the circ file in logism. You can try to solve the puzzle while on the default sceen (the main circuit) by
 pressing the buttons on the top (F for farmer, W for wolf, etc). 
 

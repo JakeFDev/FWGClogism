@@ -1,4 +1,4 @@
-#About
+# About
 -----------------------------------------------------------------------------------------------------
 Implementing the Farmer Wolf Goat Cabbage problem using logism (logic gates and low level hardware, etc)
 This was created for CS 2521 at University of Minnesota, Duluth as a team project by Jacob & Mackenzie Fulton
